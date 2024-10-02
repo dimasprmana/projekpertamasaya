@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Nasi Goreng",
+      "description": "Nasi goreng lezat dengan bumbu pilihan.",
+      "ingredients": ["Nasi", "Telur", "Bawang", "Kecap"],
+      "instructions": "Goreng nasi dengan bumbu hingga matang.",
+      "image": "assets/images/nasigoreng.jpeg"
+    },
+    {
+      "name": "Mie Goreng",
+      "description": "Mie goreng pedas dengan topping ayam.",
+      "ingredients": ["Mie", "Ayam", "Telur", "Bawang"],
+      "instructions": "Rebus mie, tumis ayam dengan bumbu, campurkan.",
+      "image": "assets/images/miegoreng.jpg"
+    },
+    {
+      "name": "Sate Ayam",
+      "description": "Sate ayam dengan bumbu kacang.",
+      "ingredients": ["Daging Ayam", "Kecap", "Bumbu Kacang"],
+      "instructions": "Bakar ayam dengan bumbu kecap dan kacang.",
+      "image": "assets/images/sate.jpg"
+    },
+    {
+      "name": "Rendang",
+      "description": "Rendang daging sapi khas Padang.",
+      "ingredients": ["Daging Sapi", "Santan", "Rempah-rempah"],
+      "instructions": "Masak daging dengan santan dan bumbu hingga empuk.",
+      "image": "assets/images/rendang.jpeg"
+    },
+    {
+      "name": "Bakso",
+      "description": "Bakso sapi dengan kuah kaldu yang gurih.",
+      "ingredients": ["Daging Sapi", "Tepung Tapioka", "Bumbu-bumbu"],
+      "instructions": "Rebus bakso dengan kuah kaldu hingga matang.",
+      "image": "assets/images/bakso.jpeg"
+    }
+  ]
+
+  

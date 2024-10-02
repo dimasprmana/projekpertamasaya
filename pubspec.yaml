@@ -1,0 +1,28 @@
+name: aplikasipertamasaya
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/assets/recipes.json
+    - assets/images/nasigoreng.jpeg
+    - assets/images/miegoreng.jpg
+    - assets/images/sate.jpg
+    - assets/images/rendang.jpeg
+    - assets/images/bakso.jpeg
+
+
